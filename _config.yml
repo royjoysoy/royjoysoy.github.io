@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Roy Seo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Seattle, WA"
+  bio              : "I am a cognitive neuroscientist."
+  location         : "Seattle, WA | Seoul, Korea" 
   email            :
   links:
     - label: "Email"
